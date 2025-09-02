@@ -107,8 +107,6 @@ This ensures that even if the database is compromised, raw passwords are **never
 ### 🎉 Secrets Page
 ![Secrets Screenshot](screenshots/secrets.png)
 
-> 💡 Add your actual screenshots in the `screenshots/` folder with the names shown above.
-
 ---
 
 ## 🛠 Technologies Used
